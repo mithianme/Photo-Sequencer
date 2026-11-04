@@ -1,0 +1,15 @@
+# PyInstaller output. build.cmd regenerates all of it, spec included.
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Half-written exports and saved lists from trying the app out
+*.zip
+*.part
+photo-order.json
